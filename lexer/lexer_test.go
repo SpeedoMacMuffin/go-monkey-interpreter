@@ -71,7 +71,3 @@ func TestNextToken(t *testing.T) {
 		}
 	}
 }
-
-func TestNextToken2(t *testing.T) {
-
-}
