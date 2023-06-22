@@ -12,6 +12,11 @@
 - an array data structure
 - a hash data structure
 
+### REPL
+To use the REPL enter this command:
+```bash
+go run main.go
+```
 
 ### Example
 
